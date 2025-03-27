@@ -4,7 +4,11 @@
   ⚡ Full-stack Dev & UI/UX Designer  
   🤖 GenAI Explorer | 🧠 Detail-obsessed Creator
 </p>
-
+<p align="center">
+  <a href="https://dummy-astro.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Live-Bento%20Format-00ff99?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+</p>
 ---
 
 ### 🧠 About Me
