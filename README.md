@@ -51,9 +51,3 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KiyarashKia/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contributions" />
-</p>
